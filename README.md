@@ -1,2 +1,2 @@
-# desaf-o-codificador-Oracle-AluraLatam
-# codificador2
+# desafio de codificador de Oracle latam 
+Usando javascript
